@@ -1,0 +1,16 @@
+C:\Users\robin\OneDrive\Programmieren\C#_Playground\Wärungsrechner\bin\Debug\net8.0-windows\Wärungsrechner.exe
+C:\Users\robin\OneDrive\Programmieren\C#_Playground\Wärungsrechner\bin\Debug\net8.0-windows\Wärungsrechner.deps.json
+C:\Users\robin\OneDrive\Programmieren\C#_Playground\Wärungsrechner\bin\Debug\net8.0-windows\Wärungsrechner.runtimeconfig.json
+C:\Users\robin\OneDrive\Programmieren\C#_Playground\Wärungsrechner\bin\Debug\net8.0-windows\Wärungsrechner.dll
+C:\Users\robin\OneDrive\Programmieren\C#_Playground\Wärungsrechner\bin\Debug\net8.0-windows\Wärungsrechner.pdb
+C:\Users\robin\OneDrive\Programmieren\C#_Playground\Wärungsrechner\obj\Debug\net8.0-windows\Wärungsrechner.Form1.resources
+C:\Users\robin\OneDrive\Programmieren\C#_Playground\Wärungsrechner\obj\Debug\net8.0-windows\Wärungsrechner.csproj.GenerateResource.cache
+C:\Users\robin\OneDrive\Programmieren\C#_Playground\Wärungsrechner\obj\Debug\net8.0-windows\Wärungsrechner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robin\OneDrive\Programmieren\C#_Playground\Wärungsrechner\obj\Debug\net8.0-windows\Wärungsrechner.AssemblyInfoInputs.cache
+C:\Users\robin\OneDrive\Programmieren\C#_Playground\Wärungsrechner\obj\Debug\net8.0-windows\Wärungsrechner.AssemblyInfo.cs
+C:\Users\robin\OneDrive\Programmieren\C#_Playground\Wärungsrechner\obj\Debug\net8.0-windows\Wärungsrechner.csproj.CoreCompileInputs.cache
+C:\Users\robin\OneDrive\Programmieren\C#_Playground\Wärungsrechner\obj\Debug\net8.0-windows\Wärungsrechner.dll
+C:\Users\robin\OneDrive\Programmieren\C#_Playground\Wärungsrechner\obj\Debug\net8.0-windows\refint\Wärungsrechner.dll
+C:\Users\robin\OneDrive\Programmieren\C#_Playground\Wärungsrechner\obj\Debug\net8.0-windows\Wärungsrechner.pdb
+C:\Users\robin\OneDrive\Programmieren\C#_Playground\Wärungsrechner\obj\Debug\net8.0-windows\Wärungsrechner.genruntimeconfig.cache
+C:\Users\robin\OneDrive\Programmieren\C#_Playground\Wärungsrechner\obj\Debug\net8.0-windows\ref\Wärungsrechner.dll

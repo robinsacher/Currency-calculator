@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wärungsrechner", "Wärungsrechner.csproj", "{4FF2DD4E-4B9B-418A-A595-7FC4A4186ECF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FF2DD4E-4B9B-418A-A595-7FC4A4186ECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FF2DD4E-4B9B-418A-A595-7FC4A4186ECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FF2DD4E-4B9B-418A-A595-7FC4A4186ECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FF2DD4E-4B9B-418A-A595-7FC4A4186ECF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54932B82-39B4-4153-8C57-B238CD487B50}
+	EndGlobalSection
+EndGlobal
